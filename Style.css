@@ -1,0 +1,23 @@
+img {
+  height: 100px;
+  width: 330px;
+  border: 50px;
+  border-radius: 5px;
+}
+
+.classe {
+ font-size: 50px;
+}
+
+.botao {
+  padding-left: 200px;
+}
+
+.tamanho {
+  height: 80px;
+  width: 80px;
+}
+
+.meio {
+  padding-left: 100px;
+}
