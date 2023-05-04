@@ -1,0 +1,60 @@
+body{
+    background-color: #10161f;
+}
+h1{
+    color: #ff0000;
+}
+.img-fluid{
+    transition: all 0.3s ease-out;
+}
+.img-fluid:hover{
+transform: scale(1.1);
+}
+.corl{
+    background-color: #20215D;
+}
+.amarelo{
+    color: darkorange;
+}
+.logo{
+    height: 60px;
+    width: 144px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.movie {
+	display: inline-block;
+	width: 200px;
+	margin: 10px;
+}
+
+.movie img {
+	width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.movie h2 {
+  color: #fff;
+	margin: 10px 0 5px;
+	font-size: 18px;
+}
+
+.movie p {
+	margin: 5px 0;
+	font-size: 14px;
+	color: #999;
+}
