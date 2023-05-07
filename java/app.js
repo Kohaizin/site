@@ -1,4 +1,4 @@
-const apiKey = '64556d4b36914371e034f9cef5b8697c';
+const apiKey = '.......';
 
 function searchMovies(query) {
 	const url = `https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&language=pt-BR&query=${query}`;
